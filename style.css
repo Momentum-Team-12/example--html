@@ -31,5 +31,24 @@ section {
     background-color: blue;
 }
 
+.image {
+    margin: 0 auto;
+    width: 350px;
+}
+
+img {
+    width: 100%;
+}
+
+.main {
+    display:flex;
+    /* flex-direction:column; */
+    flex-wrap: wrap;
+}
+
+section {
+    display:flex
+}
+
 
 
